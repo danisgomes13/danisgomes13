@@ -40,11 +40,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-> _Pin your best repos from your GitHub profile settings — they'll show below this section automatically on your profile page._
-
----
 
 ### 📊 GitHub Stats
 
